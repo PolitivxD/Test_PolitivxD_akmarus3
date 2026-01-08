@@ -1,1 +1,5 @@
-aa
+git clone https://github.com/PolitivxD/Test_PolitivxD_akmarus3
+cd Test_PolitivxD_akmarus3
+git add mittermair.txt
+git commit -m "NEU"
+git push
