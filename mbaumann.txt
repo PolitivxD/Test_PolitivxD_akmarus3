@@ -6,3 +6,6 @@ git add mbaumann.txt
 git commit -m mbaumann.txt "neuer"
 git pull (sync mit Mittermair)
 git push
+
+
+feature branch
