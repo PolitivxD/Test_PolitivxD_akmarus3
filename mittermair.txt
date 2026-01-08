@@ -3,3 +3,16 @@ cd Test_PolitivxD_akmarus3
 git add mittermair.txt
 git commit -m "NEU"
 git push
+git pull
+git add mittermair.txt
+git commit -m "CODE"
+git push
+git add README.md
+git commit -m "RedMe"
+git push
+
+
+
+Fehler Später:
+failed to push some refs to 'https://github.com/PolitivxD/Test_PolitivxD_akmarus3'
+hint: Updates were rejected because the tip of your current branch is behind
