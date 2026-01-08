@@ -1,1 +1,8 @@
 Pusch: I mecht ned microcontroller in am Autoradio sein, muas a fade hockn sei
+
+git clone https://github.com/PolitivxD/Test_PolitivxD_akmarus3
+neue txt Datei erstellen
+git add mbaumann.txt
+git commit -m mbaumann.txt "neuer"
+git pull (sync mit Mittermair)
+git push
